@@ -1,0 +1,10 @@
+[Desktop Entry]
+Name=Rui Clock
+Comment=A Custom Clock
+Encoding=UTF-8
+Icon=player-time
+ServiceTypes=Plasma/Applet
+Type=Service
+X-KDE-PluginInfo-Name=org.rui.basicclock
+X-Plasma-API=declarativeappletscript
+X-Plasma-MainScript=ui/main.qml
